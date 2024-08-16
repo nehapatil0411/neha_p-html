@@ -1,0 +1,34 @@
+*
+{
+ margin:0%;
+ padding:0%;
+ box-sizing:border box;
+}
+.grey
+{
+ height:100px;
+ width:100px;
+ background-color:grey;
+ float:left;
+ top:0%;
+ bottom:0%;
+}
+.black
+{
+ height:100px;
+ width:100px;
+ background-color:black;
+ float:left;
+ top:0%;
+ bottom:0%
+}
+.box1
+{
+ height:100px;
+ width:800px;
+}
+.box2
+{
+ height:100px;
+ width:800px;
+}

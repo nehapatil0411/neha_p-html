@@ -1,0 +1,96 @@
+*
+{
+ margin:0%;
+ padding:0%;
+ box-sizing:border box;
+ 
+}
+body
+{
+	background-color:black;
+	
+}
+.circleone
+{
+	height:180px;
+	width:180px;
+	border-radius:100px;
+	background: rgb(63,94,251);
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+	position:absolute;
+	left:21%;
+	top:10%;
+	
+}
+.circletwo
+{
+	height:180px;
+	width:180px;
+	border-radius:100px;
+	background: rgb(63,94,251);
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+	position:absolute;
+	left:47%;
+	top:88%;
+}
+.form
+{
+	
+	height:600px;
+	width:450px;
+	position:absolute;
+	left:25%;
+	top:20%;
+	background: rgba( 255, 255, 255, 0.2 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 6px );
+   -webkit-backdrop-filter: blur( 6px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+.form-content
+{
+	
+	height:500px;
+	width:350px;
+	margin:50px auto;
+	
+	color:white;
+}
+h1
+{
+	color:white;
+	
+   
+}	
+h2
+{
+	color:white;
+	margin-top:10%;
+}
+input
+{
+	display:block;
+	height:50px;
+	width:100%;
+	background-color:rgba(255,255,255,0.07);
+	border-radius: 3px;
+	padding: 10px;
+	margin-top: 8px;
+	font-size: 14px;
+	font-weight: 300;
+    border-box:none;
+}
+ ::placeholder
+    {
+	 color:grey;
+    }
+
+			 
+	
+	
+}
+	
+
+
+
