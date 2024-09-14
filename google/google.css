@@ -1,0 +1,196 @@
+*
+{
+	margin:0%;
+	padding:0%:
+	box-sizing:border-box;
+}
+d
+{
+	position:absolute;
+	transform:translate(-50%,-50%);
+	left:3%;
+	top:3%;
+	color:grey;
+	font-family:arial;
+	font-size:15px;
+}
+c
+{
+	position:absolute;
+	transform:translate(-50%,-50%);
+	left:7%;
+	top:3%;
+	color:grey;
+	font-family:arial;
+	font-size:15px;
+}
+table
+{
+	width:100%;
+	padding:20px;		
+}
+tr
+{
+	float:right;
+	right:15px;
+}
+.google
+{
+	font-size:70px;
+	position:absolute;
+	transform:translate(-50%,-50%);
+	left:47%;
+	top:50%;
+	letter-spacing:-10px;
+}
+.search
+{
+	height:42px;
+	width:36%;
+	border:1px solid grey;
+	position:absolute;
+	transform:translate(-50%,-50%);
+	left:48%;
+	top:60%;
+	border-radius:30px;
+}
+.icon
+{
+	position:absolute;
+	transform:translate(-50%,-50%);
+	left:31%;
+	top:60%;
+    color:grey;	
+}
+.mic
+{
+	height:30px;
+	width:30px;
+	position:absolute;
+	transform:translate(-50%,-50%);
+	left:62%;
+	top:60%;	
+}
+.cam
+{
+	height:30px;
+	width:30px;
+	position:absolute;
+	transform:translate(-50%,-50%);
+	left:64%;
+	top:60%;
+}
+.button
+{
+	position:absolute;
+	transform:translate(-50%,-50%);
+    left:48%;
+	top:67%;
+}
+.button a
+{
+	border:1px solid lightgrey;
+    padding: 10px  20px;
+    margin-right: 10px;
+    background-color:lightgrey;
+	border-radius:3px;
+}
+.link
+{
+	position:absolute;
+	transform:translate(-50%,-50%);
+	left:34%;
+	top:72%;
+	font-size:12px;
+	color:grey;
+}
+.site
+{
+	position:absolute;
+	transform:translate(-50%,-50%);
+	left:51%;
+	top:72%;
+	color:blue;
+	font-size:10px;
+	letter-spacing:4px;
+}
+e
+{
+	position:absolute;
+	transform:translate(-50%,-50%);
+	left:3%;
+	top:90%;
+	color:grey;
+	font-family:arial;
+	font-size:13px;
+}
+.box
+{
+	height:20px;
+	width:100%;
+	color:black;
+	font-family:arial;
+}
+f
+{
+	position:absolute;
+	transform:translate(-50%,-50%);
+	left:4%;
+	top:95%;
+	color:grey;
+	font-family:arial;
+	font-size:13px;
+}
+fa
+{
+	position:absolute;
+	transform:translate(-50%,-50%);
+	left:10%;
+	top:95%;
+	color:grey;
+	font-family:arial;
+	font-size:13px;
+}
+fb
+{
+	position:absolute;
+	transform:translate(-50%,-50%);
+	left:17%;
+	top:95%;
+	color:grey;	
+	font-family:arial;
+	font-size:13px;
+}
+p
+{
+	position:absolute;
+	transform:translate(-50%,-50%);
+	right:12%;
+	top:95%;
+	color:grey;	
+	font-family:arial;
+	font-size:12px;
+	
+}
+pa
+{
+	position:absolute;
+	transform:translate(-50%,-50%);
+	right:8%;
+	top:95%;
+	color:grey;	
+	font-family:arial;
+	font-size:12px;
+}
+pb
+{
+	position:absolute;
+	transform:translate(-50%,-50%);
+	right:3%;
+	top:95%;
+	color:grey;	
+	font-family:arial;
+	font-size:12px;
+}
+
+
