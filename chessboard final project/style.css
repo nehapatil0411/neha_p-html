@@ -1,0 +1,53 @@
+*
+{
+    margin:0%;
+    padding:0%;
+    box-sizing:border-box;
+}
+.main
+{
+    height:800px;
+    width:800px;
+   
+    border:5px solid black;
+}
+.lightyellow
+{
+ height:100px;
+ width:100px;
+ background-color:rgb(250, 234, 188);
+ float:left;
+ top:0%;
+ bottom:0%;
+}
+.lightyellow p
+{
+    color:black;
+    font-size:20px;
+    padding:10px 40px;
+}
+.green
+{
+ height:100px;
+ width:100px;
+ background-color:rgb(75, 132, 75);
+ float:left;
+ top:0%;
+ bottom:0%
+}
+.green p
+{
+    color:black;
+    font-size:20px;
+    padding:10px 40px;
+}
+.box1
+{
+ height:100px;
+ width:800px;
+}
+.box2
+{
+ height:100px;
+ width:800px;
+}
