@@ -1,0 +1,152 @@
+*
+{
+    margin:0%;
+    padding:0%;
+    box-sizing:border-box;
+}
+.header h1
+{
+    text-align:center;
+    position: relative;
+    top:30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header p
+{
+    text-align:center;
+    position: relative;
+    top:40px;
+    color:grey;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.boxes
+{
+    position: relative;
+    top:100px;
+    height:400px;
+    width:100%;
+}
+.container
+{
+    height:400px;
+    width:90%;
+    background-color: whitesmoke;
+    margin:auto;
+    display: flex;
+    align-items:center;
+    justify-content:space-around;
+}
+.box1
+{
+    height:300px;
+    width:28%;
+    background-color: white;
+}
+.box1 p
+{
+    position: relative;
+    top:20px;
+    left:30px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.box1 img
+{
+    position: relative;
+    top:50px;
+    left:30px;
+    height:50px;
+    width:50px;
+    border-radius:50px;
+}
+.images h1
+{
+    position: relative;
+    top:5px;
+    left:90px;
+    font-size:20px;
+
+}
+.images h2
+{
+    font-size:15px;
+    position: relative;
+    top:10px;
+    left:90px;
+    color:grey;
+}
+.box2
+{
+    height:300px;
+    width:28%;
+    background-color: white;
+}
+.box2 p
+{
+    position: relative;
+    top:20px;
+    left:30px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.box2 img
+{
+    position: relative;
+    top:50px;
+    left:30px;
+    height:50px;
+    width:50px;
+    border-radius:50px;
+}
+.box2 .images h1
+{
+    position: relative;
+    top:5px;
+    left:90px;
+    font-size:20px;
+
+}
+.box2 .images h2
+{
+    font-size:15px;
+    position: relative;
+    top:10px;
+    left:90px;
+    color:grey;
+}
+.box3
+{
+    height:300px;
+    width:28%;
+    background-color:white;
+}
+.box3 p
+{
+    position: relative;
+    top:20px;
+    left:30px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.box3 img
+{
+    position: relative;
+    top:50px;
+    left:30px;
+    height:50px;
+    width:50px;
+    border-radius:50px;
+}
+.box3 .images h1
+{
+    position: relative;
+    top:5px;
+    left:90px;
+    font-size:20px;
+
+}
+.box3 .images h2
+{
+    font-size:15px;
+    position: relative;
+    top:10px;
+    left:90px;
+    color:grey;
+}

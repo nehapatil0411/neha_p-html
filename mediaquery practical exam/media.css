@@ -1,0 +1,167 @@
+@media(max-width:768px)
+{
+    .header h1 {
+        position: relative;
+        top: 20px;
+        left:100px;
+        width:80%;
+
+    }
+
+    .header p {
+        position: relative;
+        left:140px;
+        width:70%;
+    }
+    .boxes {
+  
+        height: 1200px;
+    }
+
+    .container {
+        height:1200px;
+        flex-wrap: wrap;
+    }
+    .box1
+    {
+    
+        height:500px;
+        width:45%;
+    }
+    .box1 p{
+        width:70%;
+    }
+    .box1 .images h1
+    {
+        width:50%;
+    }
+    .box1 .images h2
+    {
+        width:50%;
+    }
+    .box2
+    {
+    
+        height:500px;
+        width:45%;
+
+    }
+    .box2 p{
+        width:70%;
+    }
+    .box2 .images h1
+    {
+        width:50%;
+    }
+    .box2 .images h2
+    {
+        width:50%;
+    }
+    .box3
+    {
+        height:500px;
+        width:45%;
+        position:relative;
+        bottom:50px;
+    }
+    .box3 p{
+        width:70%;
+    }
+    .box3 .images h1
+    {
+        width:50%;
+    }
+    .box3 .images h2
+    {
+        width:50%;
+    }
+
+
+}
+
+
+@media(max-width:480px)
+{
+    .header h1 {
+        position: relative;
+        top: 20px;
+        left:60px;
+        width:80%;
+
+    }
+
+    .header p {
+        position: relative;
+        left:85px;
+        width:70%;
+    }
+
+    .boxes {
+      
+        height: 1500px;
+    }
+
+    .container {
+
+        height:1500px;
+        flex-wrap: wrap;
+    }
+    .box1
+    {
+        height:400px;
+        top:100px;
+        width:95%;
+    }
+    .box1 p
+    {
+    
+        width:85%;
+    }
+    .box1 .images h1
+    {
+        width:50%;
+    }
+    .box1 .images h2
+    {
+        width:50%;
+    }
+    .box2
+    {
+        position: relative;
+        top:-70px;
+        height:400px;
+        width:95%;
+    }
+    .box2 p
+    {
+    
+        width:85%;
+    }
+    .box2 .images h1
+    {
+        width:50%;
+    }
+    .box2 .images h2
+    {
+        width:50%;
+    }
+    .box3
+    {
+        height:400px;
+        position: relative;
+        top:-9%;
+        width:95%;
+    }
+    .box3 p
+    {
+        width:85%;
+    }
+    .box3 .images h1
+    {
+        width:50%;
+    }
+    .box3 .images h2
+    {
+        width:50%;
+    }
+}

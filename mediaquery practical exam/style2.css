@@ -1,0 +1,50 @@
+*
+{
+    margin:0%;
+    padding:0%;
+    box-sizing: border-box;
+}
+body
+{
+    background-image: url('images/background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.box
+{
+    position: relative;
+    top:100px;
+    left:35%;
+    text-align:center;
+    height:600px;
+    width:500px;
+    background-color:bisque;
+    border-radius:20px;
+}
+.images img
+{
+    position: relative;
+    top:50px;
+    height:150px;
+    width:150px;
+    border-radius:50%;
+}
+.intro h1
+{
+    position: relative;
+    top:50px;
+}
+.intro h2{
+    font-size:14px;
+    color:grey;
+    position: relative;
+    top:60px;
+}
+.intro p
+{
+    position: relative;
+    top:80px;
+    width:80%;
+    left:10%;
+}
