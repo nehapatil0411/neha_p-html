@@ -1,0 +1,102 @@
+*
+{
+    margin:0%;
+    padding: 0%;
+    box-sizing:border-box;
+
+}
+.Dashboard
+{
+    height: 100vh;
+    width: 22%;
+    background:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)) , url("images/bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    position:fixed;
+    top: 0px;
+    left: 0px;
+    overflow-y: scroll;
+}
+.Dashboard .prof 
+{
+    height: 120px;
+    width: 100%;
+    background-color: #214162;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+
+}
+.Dashboard .nav-link 
+{
+    padding: 15px 40px;
+    color: white;
+    
+}
+.Dashboard .collapse 
+{
+    background-color:#214162;
+}
+.sidebar
+{
+    height: 100vh;
+    width: 20%;
+    background-color: #142739;
+    background-image:url("images/bg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    position:fixed;
+    top: 0px;
+    left: 0px;
+    overflow-y: scroll;
+}
+.sidebar .prof 
+{
+    height: 120px;
+    width: 100%;
+    background-color: #214162;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+
+}
+.sidebar .nav-link 
+{
+    padding: 15px 40px;
+    color: white;
+    
+}
+.sidebar .collapse 
+{
+    background-color:#214162;
+}
+.main-content
+{
+    height: 100%;
+    margin-left: 20%;
+}
+.chart 
+{
+    height:auto;
+    width: 93%; 
+    margin: auto;
+    background-color: white;
+    border-radius: 10px;
+}
+.nav_c
+{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+.Testimonial,.date-table
+{
+    height: 450px;
+    width: 550px;
+    border-radius: 5px;
+    background-color: #214162;
+}
+
+
