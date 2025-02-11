@@ -1,0 +1,23 @@
+@media(max-width:480px) {
+    
+    .navbar
+{
+    width:100%;
+}
+.navbarContainer
+{
+    width:100%;
+}
+.navbarContainer p 
+{
+    top:30px;
+    font-size:23px;
+}
+.navbarContainer ul li a
+{
+    margin-left:150px;
+    top:13px;
+    padding-right:20px;
+    font-size:25px;
+}
+}

@@ -1,0 +1,26 @@
+@media(max-width:480px) {
+
+    .navbarContainer
+{
+    height:120px;
+    margin:auto;
+}
+    .navbarContainer ul li a {
+        top:50px;
+        left:-270px;
+        padding-right: 60px;
+    }
+    .main-image1
+{
+    position: relative;
+    top:40px;
+    height:575px;
+    width:98%;
+    background-color:black;
+    margin:auto;
+}
+.main-image1 img
+{
+   width: 100%;
+}
+}
